@@ -1,0 +1,40 @@
+body > div {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 auto;
+	width: 800px;
+}
+p {
+	font-weight: 700;
+}
+
+p:first-of-type {
+	margin-top: 25px;
+}
+
+.gem {
+	display: inline-block;
+	margin: 0 20px;
+}
+#blue {
+	background-image: url("../../assets/images/blue.png");
+	height: 61px;
+	width: 63px;
+}
+
+#green {
+	background-image: url("../../assets/images/green.png");
+	height: 73px;
+	width: 51px;
+}
+
+#red {
+	background-image: url("../../assets/images/red.png");
+	height: 89px;
+	width: 60px;
+}
+
+#yellow {
+	background-image: url("../../assets/images/yellow.png");
+	height: 69px;
+	width: 60px;
+}
